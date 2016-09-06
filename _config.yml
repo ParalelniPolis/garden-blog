@@ -6,7 +6,7 @@ title:               Garden
 tagline:             Paralelni Polis
 url:                 http://paralelnipolis.github.io/garden-blog/
 paginate:            1
-baseurl:             ""
+baseurl:             "https://paralelnipolis.github.io/garden-blog/"
 
 # Assets
 #
