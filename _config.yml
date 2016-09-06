@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Garden
 tagline:             Paralelni Polis
-url:                 http://garden.paralelnipolis.cz
+url:                 http://paralelnipolis.github.io/garden-blog/
 paginate:            1
 baseurl:             ""
 
